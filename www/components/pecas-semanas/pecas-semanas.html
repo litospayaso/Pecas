@@ -1,0 +1,12 @@
+<ion-view view-title="Semanas" style="margin-left:3px">
+  <ion-content>
+    <div ng-controller="semanas">
+      <div class="list">
+        <div ng-repeat="week in weeks">
+          <button type="button" class="button button-block button-balanced" ng-click="moveScreen('app/Semana/'+week.id)">{{week.week}}</button>
+        </div>
+      </div>
+    </div>
+  </ion-content>
+</ion-view>
+

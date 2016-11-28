@@ -28,43 +28,43 @@ angular.module('starter', ['ionic', 'starter.controllers'])
     controller: 'AppCtrl'
   })
 
-    .state('app.Contacts', {
-    url: '/Contacts',
+    .state('app.Semanas', {
+    url: '/Semanas/',
     views: {
       'menuContent': {
-        templateUrl: 'components/whatsDule-contacts/whatsDule-contacts.html'
+        templateUrl: 'components/pecas-semanas/pecas-semanas.html'
       }
     }
   })
 
-    .state('app.Schedule', {
-    url: '/Schedule/',
+    .state('app.Semana', {
+    url: '/Semana/:id',
     views: {
       'menuContent': {
-        templateUrl: 'components/whatsDule-schedule/whatsDule-schedule.html'
+        templateUrl: 'components/pecas-semana/pecas-semana.html'
       }
     }
   })
 
-    .state('app.Edit', {
-    url: '/Edit/:id',
+    .state('app.Palabra', {
+    url: '/Palabra/:id/:word',
     views: {
       'menuContent': {
-        templateUrl: 'components/whatsDule-message/whatsDule-message.html'
+        templateUrl: 'components/pecas-palabra/pecas-palabra.html'
       }
     }
   })
 
-    .state('app.Message', {
-    url: '/Message/:contact/:phone',
+    .state('app.Buscador', {
+    url: '/Buscador/',
     views: {
       'menuContent': {
-        templateUrl: 'components/whatsDule-message/whatsDule-message.html'
+        templateUrl: 'components/pecas-buscador/pecas-buscador.html'
       }
     }
   });
   // if none of the above states are matched, use this as the fallback
-  $urlRouterProvider.otherwise('/app/Schedule/');
+  $urlRouterProvider.otherwise('/app/Semanas/');
 });
 
 angular.module("starter")
@@ -74,6 +74,12 @@ angular.module("starter")
     $scope.moveScreen = function (targetScreen) {
       $location.path(targetScreen);
     };
+
+    $http.get('database/database.json').success(function (data) {
+      $rootScope.weeks = data;
+    //   $rootScope.lexiko = data.lexiko;
+    //   $rootScope.ariketak = data.ariketak;
+     });
 
   }]);
 

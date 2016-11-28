@@ -1,0 +1,17 @@
+<ion-view view-title="Buscador" style="margin-left:3px">
+  <ion-content>
+    <div ng-controller="buscador">
+      <label class="item item-input">
+        <i class="icon ion-search placeholder-icon"></i>
+        <input type="text" placeholder="Search" ng-model="search" ng-change="find()">
+      </label>
+      <div class="list">
+        <div ng-repeat="word in palabras">
+          <button type="button" class="button button-block button-balanced"
+                  ng-click="moveScreen('app/Palabra/'+word.key+'/'+word.word)">{{word.word}}</button>
+        </div>
+      </div>
+    </div>
+  </ion-content>
+</ion-view>
+
