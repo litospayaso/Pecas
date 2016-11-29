@@ -77,9 +77,15 @@ angular.module("starter")
 
     $http.get('database/database.json').success(function (data) {
       $rootScope.weeks = data;
-    //   $rootScope.lexiko = data.lexiko;
-    //   $rootScope.ariketak = data.ariketak;
      });
+
+    $http({
+      method: 'GET',
+      url: 'https://crossorigin.me/https://raw.githubusercontent.com/litospayaso/Pecas/master/www/database/database.json'
+    }).then(function successCallback(response) {
+      $rootScope.weeks = response.data;
+    }, function errorCallback(response) { //Error case not connection available
+    });
 
   }]);
 
