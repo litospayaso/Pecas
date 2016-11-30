@@ -33,5 +33,10 @@
     "id":6,
     "week":"21/11/16",
     "words": [{"word":"positivo","key":"148298"},{"word":"negativo","key":"132108"},{"word":"interesante","key":"299726"},{"word":"luna","key":"17642"},{"word":"nuevo","key":"18096"},{"word":"mezclar","key":"132180"},{"word":"virus","key":"42620"},{"word":"amigo","key":"4110"},{"word":"programa","key":"5202"},{"word":"televisión","key":"18018"},{"word":"voluntario","key":"18386"},{"word":"donar","key":"299593"},{"word":"huevo","key":"8878"},{"word":"patata","key":"10847"},{"word":"enviar","key":"5063"},{"word":"evaluación","key":"127818"},{"word":"Ávila","key":"262729"},{"word":"Burgos","key":"262728"},{"word":"Cáceres","key":"262688"},{"word":"Andalucía","key":"287926"},{"word":"Cádiz","key":"262673"},{"word":"Castellón","key":"262690"},{"word":"Segovia","key":"262682"}]
+  },
+  {
+    "id":7,
+    "week":"28/11/16",
+    "words": [{"word":"imitar","key":"55522"},{"word":"mesa","key":"12042"},{"word":"igual","key":"154063"},{"word":"diferente","key":"35023"},{"word":"dactilología","key":"124651"}]
   }
 ]
