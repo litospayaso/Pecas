@@ -38,5 +38,10 @@
     "id":7,
     "week":"28/11/16",
     "words": [{"word":"imitar","key":"55522"},{"word":"mesa","key":"12042"},{"word":"igual","key":"154063"},{"word":"diferente","key":"35023"},{"word":"dactilología","key":"124651"}]
+  },
+  {
+    "id":8,
+    "week":"30/11/16",
+    "words": [{"word":"último/al final","key":"330752"},{"word":"peca","key":"183224"},{"word":"grano","key":"179397"},{"word":"actor","key":"54969"},{"word":"cantante","key":"151116"},{"word":"famoso","key":"22999"},{"word":"Barcelona","key":"262670"},{"word":"Valencia","key":"262739"},{"word":"barrio","key":"175513"},{"word":"divertido","key":"330678"},{"word":"nota","key":"246422"},{"word":"espejo","key":"13682"},{"word":"manzana","key":"6977"},{"word":"chocolate","key":"8052"},{"word":"Castilla la Mancha","key":"262752"},{"word":"mensaje","key":"180560"},{"word":"viajar","key":"6280"},{"word":"navidad","key":"35667"},{"word":"coleta","key":"26704"},{"word":"párpado","key":"284748"},{"word":"pestaña","key":"16795"},{"word":"bigote","key":"30062"},{"word":"ceja","key":"15408"},{"word":"ojo","key":"16603"},{"word":"calvo","key":"55351"},{"word":"moño","key":"26688"},{"word":"moreno de pelo","key":"30127"},{"word":"castaño","key":"151146"},{"word":"trenza","key":"30684"},{"word":"barba","key":"29931"},{"word":"rizado","key":"26718"}]
   }
 ]
