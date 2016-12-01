@@ -14,7 +14,7 @@ angular.module("starter")
         return;
       $rootScope.weeks.forEach(function (element) {
         element.words.forEach(function (elem){
-          if (elem.word.toLowerCase().indexOf($scope.search.toLowerCase())>=0){
+          if (elem.word.toLowerCase().replace(/á/g, "a").replace(/é/g, "e").replace(/í/g, "i").replace(/ó/g, "o").replace(/ú/g, "u").indexOf($scope.search.toLowerCase().replace(/á/g, "a").replace(/é/g, "e").replace(/í/g, "i").replace(/ó/g, "o").replace(/ú/g, "u"))>=0){
             $scope.palabras.push(elem);
           }
         });

@@ -75,16 +75,22 @@ angular.module("starter")
       $location.path(targetScreen);
     };
 
-    $http.get('database/database.json').success(function (data) {
-      $rootScope.weeks = data;
-     });
+    // $http.get('database/database.json').success(function (data) {
+    //   $rootScope.weeks = data;
+    //  });
+
+    $rootScope.connecting = true;
 
     $http({
       method: 'GET',
-      url: 'https://crossorigin.me/https://raw.githubusercontent.com/litospayaso/Pecas/master/www/database/database.json'
+      url: 'https://raw.githubusercontent.com/litospayaso/Pecas/master/www/database/database.json'
     }).then(function successCallback(response) {
+      $rootScope.connecting=false;
       $rootScope.weeks = response.data;
     }, function errorCallback(response) { //Error case not connection available
+      $rootScope.connecting=false;
+      $rootScope.weeks = [];
+      $rootScope.ConnectionError = true;
     });
 
   }]);

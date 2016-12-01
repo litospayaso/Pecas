@@ -1,11 +1,28 @@
 <ion-view view-title="Semanas" style="margin-left:3px">
   <ion-content>
     <div ng-controller="semanas">
-      <div class="list">
+
+      <div class="row" ng-show=connecting>
+        <div class="col"></div><div class="col"></div><div class="col"></div><div class="col"></div>
+        <div class="col"><ion-spinner icon="android"></ion-spinner></div>
+        <div class="col"></div><div class="col"></div><div class="col"></div><div class="col"></div>
+      </div>
+
+      <div class="card" ng-show=ConnectionError>
+        <div class="item item-divider">
+          <strong>Imposible conectar con el servidor</strong>
+        </div>
+        <div class="item item-text-wrap">
+          <p>Por favor compruebe su conexión a internet.</p>
+        </div>
+      </div>
+
+      <div class="list" ng-hide=connecting>
         <div ng-repeat="week in weeks">
           <button type="button" class="button button-block button-balanced" ng-click="moveScreen('app/Semana/'+week.id)">{{week.week}}</button>
         </div>
       </div>
+
     </div>
   </ion-content>
 </ion-view>

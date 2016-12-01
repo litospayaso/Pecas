@@ -3,45 +3,5 @@
     "id":0,
     "week":"17/10/16",
     "words": [{"word":"otro","key":"35095"},{"word":"juego","key":"57974"},{"word":"trampas","key":"58179"},{"word":"ahora","key":"35151"},{"word":"lunes","key":"4231"},{"word":"miércoles","key":"4249"},{"word":"nombre","key":"174622"},{"word":"fácil","key":"15692"},{"word":"difícil","key":"15684"},{"word":"sordo","key":"4041"},{"word":"mudo","key":"35334"},{"word":"practicar","key":"157602"},{"word":"guapo","key":"14492"},{"word":"feo","key":"14511"},{"word":"conejo","key":"11016"},{"word":"flecha","key":"55218"},{"word":"elefante","key":"13349"},{"word":"nos vemos","key":"17372"},{"word":"mal","key":"5378"},{"word":"regular","key":"55792"},{"word":"por favor","key":"4142"},{"word":"difícil","key":"15684"},{"word":"repetir","key":"55745"},{"word":"ganar","key":"16005"},{"word":"aprender","key":"5514"},{"word":"pregunta","key":"18176"}]
-  },
-  {
-    "id":1,
-    "week":"19/10/16",
-    "words": [{"word":"ventana","key":"3135"},{"word":"sentarse","key":"17013"},{"word":"cansado","key":"5537"},{"word":"curso","key":"69249"},{"word":"vergüenza","key":"298846"},{"word":"signo","key":"288142"},{"word":"verde","key":"5719"},{"word":"naranja","key":"10367"},{"word":"morado","key":"14695"},{"word":"nivel","key":"1554"},{"word":"todo","key":"298559"},{"word":"gustar","key":"4821"},{"word":"fiesta","key":"175856"},{"word":"diferente","key":"35023"},{"word":"mar","key":"16339"},{"word":"tierra","key":"20925"},{"word":"sol","key":"17051"},{"word":"grupo","key":"19263"},{"word":"ver","key":"299982"},{"word":"decir","key":"299982"},{"word":"escuchar","key":"5075"},{"word":"beber","key":"148954"}]
-  },
-  {
-    "id":2,
-    "week":"24/10/16",
-    "words": [{"word":"ya","key":"34933"},{"word":"siempre","key":"35114"},{"word":"igual","key":"154063"},{"word":"memorizar","key":"154206"},{"word":"fotocopiar","key":"55841"},{"word":"¡cuidado!","key":"27056"},{"word":"imprimir","key":"38679"},{"word":"minuto","key":"16377"},{"word":"empezar","key":"17402"},{"word":"terminar","key":"4759"},{"word":"rápido","key":"18198"},{"word":"de acuerdo","key":"299365"}]
-  },
-  {
-    "id":3,
-    "week":"26/10/16",
-    "words": [{"word":"persona","key":"16782"},{"word":"compañero","key":"13057"},{"word":"tortuga","key":"13465"},{"word":"fin de semana","key":"15966"},{"word":"esperar","key":"4476"},{"word":"raro","key":"154245"},{"word":"verdad","key":"5132"},{"word":"mentira","key":"4808"},{"word":"empezar","key":"17402"},{"word":"poder","key":"190900"},{"word":"autobús","key":"4364"},{"word":"situación","key":"55790"},{"word":"concepto","key":"58072"},{"word":"suerte","key":"34973"},{"word":"mala suerte","key":"34980"},{"word":"cumpleaños","key":"18687"},{"word":"carcajada","key":"299760"},{"word":"nacer","key":"16473"},{"word":"novio","key":"12760"},{"word":"pantalón","key":"32796"},{"word":"pantalón vaquero","key":"14798"},{"word":"colores","key":"3560"},{"word":"zapato","key":"14918"},{"word":"deportivas","key":"230349"},{"word":"leer","key":"55741"}]
-  },
-  {
-    "id":4,
-    "week":"2/11/16",
-    "words": [{"word":"tener/haber","key":"4862"},{"word":"saber","key":"5590"},{"word":"conducir","key":"25016"},{"word":"trabajar","key":"157196"},{"word":"fútbol","key":"4608"},{"word":"comprar","key":"15477"},{"word":"verdad","key":"5132"},{"word":"cocina","key":"9719"},{"word":"cocinar","key":"8245"},{"word":"leche","key":"10129"},{"word":"niño","key":"16513"},{"word":"comer","key":"8835"},{"word":"hermano","key":"14220"},{"word":"inglés","key":"4396"},{"word":"coche","key":"4010"},{"word":"otra vez","key":"35089"},{"word":"olvidar","key":"5706"},{"word":"recordar","key":"18248"},{"word":"dentista","key":"151951"},{"word":"examen","key":"15896"},{"word":"concurso","key":"58344"},{"word":"cine","key":"4728"},{"word":"paz","key":"35119"},{"word":"respetar","key":"299959"},{"word":"ayudar","key":"2103"},{"word":"igualdad","key":"27458"},{"word":"dar","key":"17278"},{"word":"compartir","key":"15469"},{"word":"perro","key":"13435"},{"word":"gato","key":"13441"},{"word":"delfín","key":"13454"},{"word":"halloween","key":"56362"},{"word":"premio","key":"35551"}]
-  },
-  {
-    "id":5,
-    "week":"14/11/16",
-    "words": [{"word":"beige","key":"55384"},{"word":"página","key":"148154"},{"word":"broma","key":"56400"},{"word":"gemelos","key":"14369"},{"word":"frase","key":"34963"},{"word":"vivir","key":"4454"},{"word":"miedo","key":"19166"},{"word":"ir","key":"57979"},{"word":"venir","key":"5171"},{"word":"adjetivo","key":"175440"},{"word":"hacer","key":"4536"},{"word":"familia","key":"35144"},{"word":"alto","key":"14450"},{"word":"bajo","key":"175511"},{"word":"viejo","key":"14552"},{"word":"joven","key":"14429"},{"word":"único","key":"202495"}]
-  },
-  {
-    "id":6,
-    "week":"21/11/16",
-    "words": [{"word":"positivo","key":"148298"},{"word":"negativo","key":"132108"},{"word":"interesante","key":"299726"},{"word":"luna","key":"17642"},{"word":"nuevo","key":"18096"},{"word":"mezclar","key":"132180"},{"word":"virus","key":"42620"},{"word":"amigo","key":"4110"},{"word":"programa","key":"5202"},{"word":"televisión","key":"18018"},{"word":"voluntario","key":"18386"},{"word":"donar","key":"299593"},{"word":"huevo","key":"8878"},{"word":"patata","key":"10847"},{"word":"enviar","key":"5063"},{"word":"evaluación","key":"127818"},{"word":"Ávila","key":"262729"},{"word":"Burgos","key":"262728"},{"word":"Cáceres","key":"262688"},{"word":"Andalucía","key":"287926"},{"word":"Cádiz","key":"262673"},{"word":"Castellón","key":"262690"},{"word":"Segovia","key":"262682"}]
-  },
-  {
-    "id":7,
-    "week":"28/11/16",
-    "words": [{"word":"imitar","key":"55522"},{"word":"mesa","key":"12042"},{"word":"igual","key":"154063"},{"word":"diferente","key":"35023"},{"word":"dactilología","key":"124651"}]
-  },
-  {
-    "id":8,
-    "week":"30/11/16",
-    "words": [{"word":"último(al final)","key":"330752"},{"word":"peca","key":"183224"},{"word":"grano","key":"179397"},{"word":"actor","key":"54969"},{"word":"cantante","key":"151116"},{"word":"famoso","key":"22999"},{"word":"Barcelona","key":"262670"},{"word":"Valencia","key":"262739"},{"word":"barrio","key":"175513"},{"word":"divertido","key":"330678"},{"word":"nota","key":"246422"},{"word":"espejo","key":"13682"},{"word":"manzana","key":"6977"},{"word":"chocolate","key":"8052"},{"word":"Castilla la Mancha","key":"262752"},{"word":"mensaje","key":"180560"},{"word":"viajar","key":"6280"},{"word":"navidad","key":"35667"},{"word":"coleta","key":"26704"},{"word":"párpado","key":"284748"},{"word":"pestaña","key":"16795"},{"word":"bigote","key":"30062"},{"word":"ceja","key":"15408"},{"word":"ojo","key":"16603"},{"word":"calvo","key":"55351"},{"word":"moño","key":"26688"},{"word":"moreno de pelo","key":"30127"},{"word":"castaño","key":"151146"},{"word":"trenza","key":"30684"},{"word":"barba","key":"29931"},{"word":"rizado","key":"26718"}]
   }
 ]
