@@ -87,10 +87,17 @@ angular.module("starter")
     }).then(function successCallback(response) {
       $rootScope.connecting=false;
       $rootScope.weeks = response.data;
+      localStorage.setItem("databaseCookie", JSON.stringify(response.data));
     }, function errorCallback(response) { //Error case not connection available
-      $rootScope.connecting=false;
-      $rootScope.weeks = [];
-      $rootScope.ConnectionError = true;
+      if (JSON.parse(localStorage.getItem("databaseCookie")) != null){
+        var databaseCookie = JSON.parse(localStorage.getItem("databaseCookie"));
+        $rootScope.connecting=false;
+        $rootScope.weeks = response.data;
+      }else{
+        $rootScope.connecting=false;
+        $rootScope.weeks = [];
+        $rootScope.ConnectionError = true;
+      }
     });
 
   }]);
