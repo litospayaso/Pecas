@@ -53,5 +53,15 @@
     "id":10,
     "week":"12/12/16",
     "words": [{"word":"pádel","key":"55407"},{"word":"para qué?","key":"246528"},{"word":"elegir","key":"235829"},{"word":"adoptiva","key":"299369"},{"word":"hermanastra","key":"152044"},{"word":"tampoco","key":"55404"},{"word":"pobre","key":"16842"},{"word":"castigo","key":"36050"},{"word":"segundo(unidad de tiempo)","key":"299299"},{"word":"piloto","key":"25781"},{"word":"ciego","key":"35235"},{"word":"hoja del árbol","key":"175639"}]
+  },
+  {
+    "id":11,
+    "week":"19/12/16",
+    "words": [{"word":"confundir","key":"58156"},{"word":"ocupado","key":"173773"},{"word":"excusa","key":"152993"},{"word":"convencer","key":"278773"},{"word":"individual,privado","key":"18168"},{"word":"solo","key":"17076"},{"word":"enero","key":"13117"},{"word":"presumido","key":"35648"},{"word":"bebé","key":"15284"},{"word":"abogado","key":"330529"},{"word":"rico","key":"16855"}]
+  },
+  {
+    "id":12,
+    "week":"21/12/16",
+    "words": [{"word":"limón","key":"9799"},{"word":"cerveza","key":"7322"},{"word":"vino","key":"11112"},{"word":"portal de Belén","key":"284654"},{"word":"camino","key":"55076"},{"word":"nieve","key":"154358"},{"word":"regalo","key":"70448"},{"word":"tambor","key":"157133"},{"word":"calzoncillos","key":"14955"},{"word":"ratón","key":"13496"},{"word":"entrar","key":"131794"},{"word":"San José","key":"230240"},{"word":"estrella","key":"55793"}]
   }
 ]
