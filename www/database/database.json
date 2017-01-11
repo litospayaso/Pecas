@@ -57,11 +57,16 @@
   {
     "id":11,
     "week":"19/12/16",
-    "words": [{"word":"confundir","key":"58156"},{"word":"ocupado","key":"173773"},{"word":"excusa","key":"152993"},{"word":"convencer","key":"278773"},{"word":"individual,privado","key":"18168"},{"word":"solo","key":"17076"},{"word":"enero","key":"13117"},{"word":"presumido","key":"35648"},{"word":"bebé","key":"15284"},{"word":"abogado","key":"330529"},{"word":"rico","key":"16855"}]
+    "words": [{"word":"confundir","key":"58156"},{"word":"ocupado","key":"173773"},{"word":"excusa","key":"152993"},{"word":"convencer","key":"278773"},{"word":"individual,privado","key":"18168"},{"word":"solo","key":"17076"},{"word":"enero","key":"13117"},{"word":"presumido","key":"35648"},{"word":"bebé","key":"15284"},{"word":"abogado","key":"330529"},{"word":"rico","key":"16855"},{"word":"experiencia","key":"164409"}]
   },
   {
     "id":12,
     "week":"21/12/16",
-    "words": [{"word":"limón","key":"9799"},{"word":"cerveza","key":"7322"},{"word":"vino","key":"11112"},{"word":"portal de Belén","key":"284654"},{"word":"camino","key":"55076"},{"word":"nieve","key":"154358"},{"word":"regalo","key":"70448"},{"word":"tambor","key":"157133"},{"word":"calzoncillos","key":"14955"},{"word":"ratón","key":"13496"},{"word":"entrar","key":"131794"},{"word":"San José","key":"230240"},{"word":"estrella","key":"55793"}]
+    "words": [{"word":"limón","key":"9799"},{"word":"cerveza","key":"7322"},{"word":"vino","key":"11112"},{"word":"portal de Belén","key":"284654"},{"word":"camino","key":"55076"},{"word":"nieve","key":"154358"},{"word":"regalo","key":"70448"},{"word":"tambor","key":"157133"},{"word":"calzoncillos","key":"14955"},{"word":"ratón","key":"13496"},{"word":"entrar","key":"131794"},{"word":"San José","key":"230240"},{"word":"estrella","key":"55793"},{"word":"bar","key":"4370"}]
+  },
+  {
+    "id":13,
+    "week":"9/01/17",
+    "words": [{"word":"tiburón","key":"13584"},{"word":"desayunar","key":"12204"},{"word":"fruta","key":"9204"},{"word":"cordero","key":"10242"},{"word":"media (media hora)","key":"128032"},{"word":"Plaza Mayor","key":"230214"},{"word":"celebrar","key":"18757"},{"word":"santo","key":"55486"},{"word":"inocente","key":"16129"},{"word":"cenar","key":"330625"},{"word":"plato","key":"263131"},{"word":"lejos","key":"179479"},{"word":"cerca","key":"299586"},{"word":"postre","key":"8617"},{"word":"peluquería","key":"28898"},{"word":"mantel","key":"12053"},{"word":"organizar","key":"19636"},{"word":"tela","key":"179553"},{"word":"circo","key":"35070"},{"word":"Puerta del Sol","key":"230225"},{"word":"uva","key":"9368"},{"word":"besar","key":"17552"},{"word":"anuncio (publicidad)","key":"149048"},{"word":"mancha","key":"236587"},{"word":"caliente","key":"3196"},{"word":"invisible","key":"55721"},{"word":"acompañar","key":"4578"},{"word":"buscar","key":"175529"},{"word":"Papá Noel","key":"35919"},{"word":"caro","key":"8982"}]
   }
 ]
