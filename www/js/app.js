@@ -86,6 +86,7 @@ angular.module("starter")
       url: 'https://raw.githubusercontent.com/litospayaso/Pecas/master/www/database/database.json'
     }).then(function successCallback(response) {
       $rootScope.connecting=false;
+      $rootScope.ConnectionError=false;
       $rootScope.weeks = response.data;
       localStorage.setItem("databaseCookie", JSON.stringify(response.data));
     }, function errorCallback(response) { //Error case not connection available
