@@ -73,5 +73,15 @@
     "id":14,
     "week":"11/01/17",
     "words": [{"word":"cómodo","key":"28235"},{"word":"luminoso","key":"21471"},{"word":"bolsa de basura","key":"163462"},{"word":"paciencia","key":"35607"},{"word":"herida","key":"5558"}]
+  },
+  {
+    "id":15,
+    "week":"16/01/17",
+    "words": [{"word":"Leganés","key":"267439"},{"word":"Móstoles","key":"267446"},{"word":"Alcobendas","key":"267421"},{"word":"imaginar","key":"16098"},{"word":"describir","key":"22857"},{"word":"Navacerrada","key":"267447"},{"word":"casi","key":"35721"},{"word":"aire acondicionado","key":"32691"},{"word":"suite","key":"32725"},{"word":"duro","key":"1604"},{"word":"reformar","key":"299942"},{"word":"calefacción","key":"2855"},{"word":"Barajas","key":"142457"},{"word":"aeropuerto","key":"24443"},{"word":"moderno","key":"23474"},{"word":"jardín","key":"35264"},{"word":"tenis","key":"36131"},{"word":"ping-pong","key":"69723"},{"word":"lavadora","key":"12517"},{"word":"secadora","key":"34646"},{"word":"secadora","key":"29239"},{"word":"tienda","key":"4983"},{"word":"seguridad","key":"20035"},{"word":"metro cuadrado","key":"671"},{"word":"mil","key":"4338"},{"word":"farmacia","key":"272084"},{"word":"hospital","key":"4953"},{"word":"ocupado (silla ocupada)","key":"134003"},{"word":"oso","key":"35193"},{"word":"loco","key":"154341"}]
+  },
+  {
+    "id":16,
+    "week":"18/01/17",
+    "words": [{"word":"taxi","key":"5453"},{"word":"libre","key":"5649"},{"word":"euro","key":"30306"},{"word":"conversación","key":"4746"},{"word":"música","key":"35341"},{"word":"lámpara","key":"6074"},{"word":"horno","key":"11934"},{"word":"olla a presión","key":"10925"},{"word":"bandera","key":"35631"},{"word":"almohada","key":"13945"},{"word":"sábana","key":"179854"},{"word":"desorden","key":"18995"},{"word":"tostadora","key":"12281"},{"word":"fregadero","key":"6017"},{"word":"fregar","key":"11435"},{"word":"filete","key":"11881"},{"word":"pollo","key":"7990"},{"word":"botella","key":"55816"},{"word":"gorro","key":"14845"},{"word":"camiseta","key":"14736"},{"word":"camisa","key":"14744"},{"word":"subtítulo","key":"39069"},{"word":"cuchara","key":"11823"},{"word":"cuchillo","key":"843"},{"word":"tenedor","key":"9128"},{"word":"público","key":"55410"},{"word":"hospital","key":"4953"},{"word":"ocupado (silla ocupada)","key":"134003"},{"word":"oso","key":"35193"},{"word":"loco","key":"154341"}]
   }
 ]
