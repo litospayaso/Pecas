@@ -88,5 +88,15 @@
     "id":17,
     "week":"23/01/17",
     "words": [{"word":"inicio","key":"278574"},{"word":"paciencia","key":"35607"},{"word":"algunos","key":"149017"},{"word":"molestia","key":"154842"},{"word":"prefieres","key":"3560"},{"word":"pensión","key":"28135"},{"word":"Goya","key":"262675"},{"word":"encuesta","key":"44703"},{"word":"general","key":"35969"},{"word":"fachada","key":"175817"},{"word":"clásico","key":"18248"},{"word":"rústico (ordinario)","key":"28532"},{"word":"pintar","key":"16805"},{"word":"tamaño (medida)","key":"351"},{"word":"independiente","key":"35309"},{"word":"salud","key":"27610"},{"word":"militar","key":"55215"},{"word":"vocabulario","key":"36098"},{"word":"diccionario","key":"32219"},{"word":"vecino","key":"55403"}]
+  },
+  {
+    "id":18,
+    "week":"25/01/17",
+    "words": [{"word":"sinónimo","key":"163619"},{"word":"cliente","key":"8519"},{"word":"aviso","key":"22222"},{"word":"debería","key":"151848"},{"word":"confundir (equivocarse)","key":"58156"},{"word":"sincero","key":"55789"},{"word":"estrés","key":"26800"},{"word":"imposible","key":"35079"}]
+  },
+  {
+    "id":19,
+    "week":"30/01/17",
+    "words": [{"word":"por fin","key":"57291"},{"word":"intentar","key":"56179"},{"word":"roto","key":"126092"},{"word":"todavía","key":"55794"},{"word":"centro","key":"330627"},{"word":"ciudad","key":"330627"},{"word":"capital","key":"330627"},{"word":"típico","key":"32293"},{"word":"empresa","key":"330864"},{"word":"comunidad","key":"27095"},{"word":"pijo","key":"55408"}]
   }
 ]
