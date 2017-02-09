@@ -98,5 +98,10 @@
     "id":19,
     "week":"30/01/17",
     "words": [{"word":"por fin","key":"57291"},{"word":"intentar","key":"56179"},{"word":"roto","key":"126092"},{"word":"todavía","key":"55794"},{"word":"centro","key":"330627"},{"word":"ciudad","key":"330627"},{"word":"capital","key":"330627"},{"word":"típico","key":"32293"},{"word":"empresa","key":"330864"},{"word":"comunidad","key":"27095"},{"word":"pijo","key":"55408"}]
+  },
+  {
+    "id":20,
+    "week":"06/02/17",
+    "words": [{"word":"culpa","key":"16135"},{"word":"adaptar","key":"148989"},{"word":"fresa","key":"11972"},{"word":"estuche","key":"148332"},{"word":"compás","key":"299138"},{"word":"cerezas","key":"7954"},{"word":"buzón","key":"175531"},{"word":"robar","key":"4778"},{"word":"mecánico","key":"156571"},{"word":"mecánico de coches","key":"55342"},{"word":"museo","key":"16458"},{"word":"chino","key":"299353"},{"word":"lotería","key":"35917"},{"word":"europa","key":"35856"},{"word":"faro","key":"164410"},{"word":"iglesia","key":"31706"},{"word":"sombrilla","key":"32230"},{"word":"arena","key":"2458"},{"word":"cubo","key":"3115"},{"word":"muñeco","key":"19020"},{"word":"roca","key":"40283"},{"word":"montaña","key":"16410"},{"word":"pelota","key":"14110"},{"word":"abeto","key":"28954"},{"word":"botas","key":"14907"},{"word":"bufanda","key":"14838"}]
   }
 ]
