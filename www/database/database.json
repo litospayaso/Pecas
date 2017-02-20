@@ -103,5 +103,15 @@
     "id":20,
     "week":"06/02/17",
     "words": [{"word":"culpa","key":"16135"},{"word":"adaptar","key":"148989"},{"word":"fresa","key":"11972"},{"word":"estuche","key":"148332"},{"word":"compás","key":"299138"},{"word":"cerezas","key":"7954"},{"word":"buzón","key":"175531"},{"word":"robar","key":"4778"},{"word":"mecánico","key":"156571"},{"word":"mecánico de coches","key":"55342"},{"word":"museo","key":"16458"},{"word":"chino","key":"299353"},{"word":"lotería","key":"35917"},{"word":"europa","key":"35856"},{"word":"faro","key":"164410"},{"word":"iglesia","key":"31706"},{"word":"sombrilla","key":"32230"},{"word":"arena","key":"2458"},{"word":"cubo","key":"3115"},{"word":"muñeco","key":"19020"},{"word":"roca","key":"40283"},{"word":"montaña","key":"16410"},{"word":"pelota","key":"14110"},{"word":"abeto","key":"28954"},{"word":"botas","key":"14907"},{"word":"bufanda","key":"14838"}]
+  },
+  {
+    "id":21,
+    "week":"13/02/17",
+    "words": [{"word":"preparado","key":"18208"},{"word":"opinión","key":"4940"},{"word":"gallo","key":"41133"},{"word":"llegar","key":"56138"},{"word":"huelga","key":"55796"}]
+  },
+  {
+    "id":22,
+    "week":"15/02/17",
+    "words": [{"word":"gallina","key":"13393"},{"word":"vale (para objeto)","key":"44793"},{"word":"urgente","key":"55804"},{"word":"enhorabuena","key":"35014"},{"word":"sustituir","key":"35014"},{"word":"gratis","key":"56382"},{"word":"millón","key":"132166"}]
   }
 ]
