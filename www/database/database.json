@@ -113,5 +113,25 @@
     "id":22,
     "week":"15/02/17",
     "words": [{"word":"gallina","key":"13393"},{"word":"vale (para objeto)","key":"44793"},{"word":"urgente","key":"55804"},{"word":"enhorabuena","key":"35014"},{"word":"sustituir","key":"163685"},{"word":"gratis","key":"56382"},{"word":"millón","key":"132166"}]
+  },
+  {
+    "id":23,
+    "week":"20/02/17",
+    "words": [{"word":"cita","key":"330633"},{"word":"hotel","key":"4658"},{"word":"céntimo","key":"55137"},{"word":"mes","key":"4838"},{"word":"una vez","key":"298752"},{"word":"dos veces","key":"152677"},{"word":"oler","key":"11607"},{"word":"cuento","key":"14159"},{"word":"lobo","key":"35900"},{"word":"marisco","key":"11458"},{"word":"jabalí","key":"41101"},{"word":"Santiago de Compostela","key":"267416"},{"word":"Japón","key":"35837"},{"word":"acento","key":"276095"},{"word":"idioma","key":"19452"},{"word":"traducir","key":"35201"},{"word":"amante","key":"12748"},{"word":"Argentina","key":"119804"},{"word":"fiel","key":"56377"},{"word":"Londres","key":"230191"},{"word":"cáncer","key":"17780"},{"word":"echar de menos","key":"164401"}]
+  },
+  {
+    "id":24,
+    "week":"22/02/17",
+    "words": [{"word":"alergia","key":"27295"},{"word":"Asturias","key":"330561"},{"word":"País Vasco (Euskadi)","key":"262740"},{"word":"Logroño","key":"267410"}]
+  },
+  {
+    "id":25,
+    "week":"06/03/17",
+    "words": [{"word":"mudarse","key":"236533"},{"word":"huir","key":"154051"},{"word":"personal","key":"44527"},{"word":"tabla","key":"39385"},{"word":"aguantarse","key":"276620"},{"word":"puerto","key":"299878"}]
+  },
+  {
+    "id":26,
+    "week":"13/03/17",
+    "words": [{"word":"campo","key":"40209"},{"word":"matemáticas","key":"13027"},{"word":"reunión","key":"5414"},{"word":"relajación","key":"19900"},{"word":"desconectar","key":"20875"},{"word":"resaca","key":"126091"}]
   }
 ]
